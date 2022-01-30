@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="follower">Follower</string>
+    <string name="company">Company</string>
+    <string name="name_company">Name Company</string>
+    <string name="following">Following</string>
+    <string name="location">Location</string>
+    <string name="name_location">name location</string>
+    <string name="repository">Repository</string>
+    <string name="user_repository">User Repository</string>
+    <string name="username">Username</string>
+    <string name="username_user">Username User</string>
+    <string name="desc_foto_user">Foto User</string>
+    <string name="logo_github">Logo GitHub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari Orang</string>
+    <string name="title_activity_user_detail">UserDetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="result">Result :</string>
+    <string name="text_not_found">Not Found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_detail_user">DetailUser</string>
+    <string name="foto_user_follow">Foto User Follow</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="fav">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="delete">Delete</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus user ini?</string>
+    <string name="added">Berhasil Ditambahkan ke Favorite</string>
+    <string name="deleted">Berhasil Dihapus dari Favorite</string>
+</resources>
